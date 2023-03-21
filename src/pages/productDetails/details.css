@@ -1,0 +1,162 @@
+.productDetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+    padding: 20px;
+flex: 100%;
+margin-top: 100px;
+height: 100%;
+
+}
+.productRight{
+   display: flex;
+    flex: 40%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+.productLeft{
+    text-align: left;
+    display: flex;
+    flex: 60%;
+    flex-direction: column;
+
+}
+.ProductDetails_Img{
+    width:300px;
+    height: 300px;
+
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;700&display=swap");
+
+.title {
+    font-size: clamp(26px, 5vw, 40px);
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+
+.accordion-panel {
+    padding: 2px 15px;
+    margin-bottom: 10px;
+    border: 1px solid #777e91;
+    border-radius: 8px;
+}
+
+.accordion input {
+    display: none;
+}
+
+.accordion label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 1px;
+    padding-block: 1px;
+    color: #004183;
+    cursor: pointer;
+    transition: color 0.25s;
+}   
+
+.accordion label:hover,
+.accordion input:checked + label {
+    color: #3b71fe;
+}
+
+.accordion i {
+    color: #3b71fe;
+    font-size: 20px;
+}
+
+.accordion .close {
+    display: none;
+}
+
+.accordion input:checked + label .close {
+    display: block;
+}
+
+.accordion input:checked + label .open {
+    display: none;
+}
+
+.accordion-body {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.25s ease-in-out;
+}
+
+.accordion-answer {
+    font-size: 14px;
+    color: #151820;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    opacity: 0;
+    transform: scale(0);
+    transform-origin: top left;
+    transition: opacity 0.75s, transform 0.15s;
+}
+
+.accordion input:checked ~ .accordion-body {
+    height: max-content;
+}
+
+.accordion input:checked ~ .accordion-body .accordion-answer {
+    opacity: 1;
+    transform: scale(1);
+}
+table { 
+	width: fit-content; 
+	border-collapse: collapse; 
+	/* margin:20px auto; */
+    width: 100%;
+	}
+
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+	background: #eee; 
+	}
+
+th { 
+	background: #3498db; 
+	color: white; 
+	font-weight: bold; 
+	}
+
+td, th { 
+    width: 100%;
+	padding: 10px; 
+	border: 1px solid #ccc; 
+	text-align: left; 
+	font-size: 10px;
+	}
+
+
+
+
+
+@media screen and (max-width:1000px) {
+    .productDetails{
+        flex-direction: column-reverse;
+        flex: 100%;
+        margin-top: 60px;
+    }
+    .productRight{
+        display: flex;
+        flex: 100%;
+        flex-direction: column;
+        margin-bottom: 20px;
+
+    
+    }
+    .productLeft{
+        display: flex;
+        flex: 100%;
+        flex-direction: column;
+        height: 400px;
+    
+    }
+}

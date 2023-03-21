@@ -1,0 +1,247 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "logo": "https://imgtr.ee/images/2023/03/15/qnEoV.png",
+            "img": "https://imgtr.ee/images/2023/03/17/qDQLX.png",
+            "name": "Contex Products"
+        },
+        {
+            "id": 2,
+            "logo": "https://imgtr.ee/images/2023/03/15/qncDl.png",
+            "img": "https://imgtr.ee/images/2023/03/17/qDQLX.png",
+            "name": "Petro S  Products "
+        }
+    ],
+    "categoryContex": [
+        {
+            "id": 1,
+            "data": "Gasoline",
+            "head": "Contex",
+            "productName": "Gasoline Engine Oils",
+            "desc": "5W40 Synthetic motor oil is a high-quality lubricant that incorporates anti-wear protection, as well as protection against sludge and deposit formation. These oils are designed to provide improved oxidation resistance, improved deposit protection, better wear protection, and better low-temperature performance over the life of the oil.",
+            "img": "https://imgtr.ee/images/2023/03/17/qDQLX.png",
+            "title": "ULTRA ACE SAE 5W40 API SN",
+            "package": "4L"
+        },
+        {
+            "id": 2,
+            "data": "Gasoline",
+            "head": "Contex",
+            "title": "ULTRA ACE SAE 10W40 API SN/CF4",
+            "productName": " Gasoline Engine Oils ",
+            "desc": "5W40 Synthetic motor oil is a high-quality lubricant that incorporates anti-wear protection, as well as protection against sludge and deposit formation. These oils are designed to provide improved oxidation resistance, improved deposit protection, better wear protection, and better low-temperature performance over the life of the oil.",
+            "img": "https://imgtr.ee/images/2023/03/17/qDQLX.png",
+            "package": "4L"
+        },
+        {
+            "id": 3,
+            "head": "Contex",
+            "data": "Gasoline",
+            "desc": "This is a Multi-grade oil for Gasoline and Diesel engines, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "productName": "Gasoline Engine Oils  ",
+            "package": "4L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQ1P4.png",
+            "title": "ULTRA ULTRA SAE 15W40 API SL/CF"
+        },
+        {
+            "id": 4,
+            "head": "Contex",
+            "data": "Gasoline",
+            "desc": "This is a Multi-grade oil for Gasoline and Diesel engines, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "productName": " Gasoline Engine Oils  ",
+            "package": "4L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQbJ1.png",
+            "title": "ULTRA SAE 20W50 API SL,SJ,SG-CF4"
+        },
+        {
+            "id": 5,
+            "head": "Contex",
+            "data": "Gasoline",
+            "desc": "This is a Multi-grade oil for Motorcycle and ToKtok, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "productName": " Gasoline Engine Oils  ",
+            "package": "1L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQDuV.png",
+            "title": "MAXXOL 4T  SAE 20W50 API SJ"
+        },
+        {
+            "id": 6,
+            "head": "Contex",
+            "data": "Diesel",
+            "desc": "is a high performance, heavy-duty diesel engine oil is formulated for use in a wide variety of European, Japanese, and North American diesel and petrol engines operating under the most severe service conditions. Designed to provide improved engine protection and increased oil life. It is compatible with low-e-mission engine technology used in road transport, construction, mining, and many other industries.",
+            "package": "20L",
+            "img": "https://imgtr.ee/images/2023/03/17/qT1R7.png",
+            "title": "SUPREME VOLT SAE 15W40 API CI-4/SL",
+            "productName": "Diesel Engine Oils "
+        },
+        {
+            "id": 7,
+            "head": "Contex",
+            "data": "Diesel",
+            "desc": "This motor oil is particularly suitable for fixed diesel engines for power generation of heavy trucks, working in warm climatic conditions.",
+            "productName": "Diesel Engine Oils",
+            "package": "5L,20L",
+            "img": "https://imgtr.ee/images/2023/03/17/qTSbA.png",
+            "title": "SUPREME OVAL SAE 50 CF-4/SG"
+        },
+        {
+            "id": 8,
+            "head": "Contex",
+            "data": "Hydraulic",
+            "desc": "Hydraulic Oil 68 is exceptional quality, top achievement hydraulic oil developed to accommodate the appeal for environmentally acceptable hydraulic fluids. This product is based on synthetic, readily biodegradable esters. A high-performance, carefully selected additive package gives excellent anti-wear and extreme pressure properties as well as good thermal stability and corrosion protection. Inherently strong oxidation resistance anticipates gumming and drop accumulation at top temperatures. Because of the high natural VI of the base fluid and low pour point, the viscosity-temperature behavior allows for a very wide operating temperature range.",
+            "package": "16L",
+            "img": "https://imgtr.ee/images/2023/03/17/qTSbA.png",
+            "title": "ULTRA TECH ISO 68",
+            "productName": "Hydraulic oils"
+        },
+        {
+            "id": 9,
+            "head": "Contex",
+            "data": "Transmission",
+            "desc": "CONTEX Automatic transmission and power steering fluid for use in GM automatic transmissions pre 2005 and in many automatic transmissions where Dexron® (II or III) or Mercon performance is required. It is recommended for transmission systems, hydraulic systems, and power steering units manufactured worldwide requiring performance standards of ATF-III/M type fluids / DEXRON®-III (H), DEXRON®-III, DEXRON®-IIE, Type A Suffix A and MERCON® as well as Allison C-3 and C-4 fluids.",
+            "package": "1L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQbJ1.png",
+            "title": "PRIME ATF DEXRON III",
+            "productName": "Transmission oils"
+        },
+        {
+            "id": 10,
+            "head": "Contex",
+            "data": "Transmission",
+            "desc": "This is a lubricant for gearboxes and rear axles with conical teeth or screw type. This oil is made with highly refined base oils containing anti-wear additives and an additive to lower the pour point.",
+            "package": "1L",
+            "img": "https://imgtr.ee/images/2023/03/17/qQbJ1.png",
+            "title": "GEAR OIL SAE 85W140 API GL-5",
+            "productName": "Transmission oils"
+        }
+    ],
+    "categoryPetro": [
+        {
+            "id": 1,
+            "head": "Petro S",
+            "data": "Gasoline",
+            "productName": " Gasoline Engine Oils",
+            "desc": "5W40 Synthetic motor oil is a high-quality lubricant that incorporates anti-wear protection, as well as protection against sludge and deposit formation. These oils are designed to provide improved oxidation resistance, improved deposit protection, better wear protection, and better low-temperature performance over the life of the oil.",
+            "package": "4L",
+            "img": "https://i.ibb.co/4YPJ9Zj/petro1.png",
+            "title": "Petro S GOLD SAE 5W40 API SN"
+        },
+        {
+            "id": 2,
+            "head": "Petro S",
+            "data": "Gasoline",
+            "title": "Super KSA SAE 15W40 API SL/CF",
+            "productName": "Gasoline Engine Oils",
+            "desc": " This is a Multi-grade oil for Gasoline and Diesel engines, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions.",
+            "package": "1L",
+            "img": "https://i.ibb.co/DtQkSn5/petro2.png"
+        },
+        {
+            "id": 3,
+            "head": "Petro S",
+            "data": "Gasoline ",
+            "img": "https://i.ibb.co/2YV6Tjj/petro4.png",
+            "title": "Super KSA  SAE 20W50 API SL,SJ,SG-CF4",
+            "productName": " Gasoline Engine Oils",
+            "desc": " This is a Multi-grade oil for Gasoline and Diesel engines, formulated from high-quality virgin base oils and a number of additives, carefully selected for engine protection and performance. It contains low-ash additives to prolong the endurance of the catalyst and provides safe engine combustion in tough usage conditions. ",
+            "package": "4L"
+        },
+        {
+            "id": 4,
+            "head": "Petro S",
+            "data": "Diesel",
+            "img": "https://i.ibb.co/tQgfvqn/petro3.png",
+            "title": "Master Duty HD4 SAE 15W40 API CI-4/SL",
+            "productName": " Diesel Engine Oils ",
+            "desc": " is a high performance, heavy-duty diesel engine oil is formulated for use in a wide variety of European, Japanese, and North American diesel and petrol engines operating under the most severe service conditions. Designed to provide improved engine protection and increased oil life. It is compatible with low-e-mission engine technology used in road transport, construction, mining, and many other industries.",
+            "package": "20L"
+        },
+        {
+            "id": 5,
+            "head": "Petro S",
+            "data": "Gasoline",
+            "img": "https://i.ibb.co/tQgfvqn/petro3.png",
+            "title": "Master Duty HD2 SAE 50 CF-4/SG",
+            "productName": "  Diesel Engine Oils ",
+            "desc": "This motor oil is particularly suitable for fixed diesel engines for power generation of heavy trucks, working in warm climatic conditions.",
+            "package": "5L,20L"
+        },
+        {
+            "id": 6,
+            "head": "Petro S",
+            "data": "Hydraulic",
+            "img": "https://i.ibb.co/HD6kFDt/petro6.png",
+            "title": "ULTRA TECH ISO 68",
+            "productName": " Hydraulic oils",
+            "desc": " Hydraulic Oil 68 is exceptional quality, top achievement hydraulic oil developed to accommodate the appeal for environmentally acceptable hydraulic fluids. This product is based on synthetic, readily biodegradable esters. A high-performance, carefully selected additive package gives excellent anti-wear and extreme pressure properties as well as good thermal stability and corrosion protection. Inherently strong oxidation resistance anticipates gumming and drop accumulation at top temperatures. Because of the high natural VI of the base fluid and low pour point, the viscosity-temperature behavior allows for a very wide operating temperature range.",
+            "package": "16L"
+        },
+        {
+            "id": 7,
+            "head": "Petro S",
+            "data": "Transmission",
+            "img": "https://i.ibb.co/V3m679W/petro7.png",
+            "title": "ATF DEXRON III",
+            "productName": "Transmission oils",
+            "desc": " CONTEX Automatic transmission and power steering fluid for use in GM automatic transmissions pre 2005 and in many automatic transmissions where Dexron® (II or III) or Mercon performance is required. It is recommended for transmission systems, hydraulic systems, and power steering units manufactured worldwide requiring performance standards of ATF-III/M type fluids / DEXRON®-III (H), DEXRON®-III, DEXRON®-IIE, Type A Suffix A and MERCON® as well as Allison C-3 and C-4 fluids. ",
+            "package": "1L"
+        }
+    ],
+    "categoryCoffee": [
+        {
+            "id": 1,
+            "head": "Spresso",
+            "data": "Black",
+            "productName": "Black coffee ",
+            "desc": "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir. Since it isn’t doctored up with milk or sugar, the quality of coffee is especially important. Treat yourself to a coffee subscription box to find your favorite style.",
+            "img": "https://i.ibb.co/nbhZD4H/coffee1.jpg",
+            "title": "Petro S GOLD SAE 5W40 API SN"
+        },
+        {
+            "id": 2,
+            "head": "Spresso",
+            "data": "Latte",
+            "title": "Super KSA SAE 15W40 API SL/CF",
+            "productName": "latte coffee ",
+            "desc": " As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice. (Here’s how to make a copycat Starbucks pumpkin spice latte.)",
+            "img": "https://i.ibb.co/FHNpjS2/coffee2.jpg"
+        },
+        {
+            "id": 3,
+            "head": "Spresso",
+            "data": "Latte ",
+            "img": "https://i.ibb.co/SnVVthG/coffee3.jpg",
+            "title": "Super KSA  SAE 20W50 API SL,SJ,SG-CF4",
+            "productName": "Cappuccino",
+            "desc": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well."
+        },
+        {
+            "id": 4,
+            "head": "Spresso",
+            "data": "Americano",
+            "img": "https://i.ibb.co/1dHHT1y/coffee4.jpg",
+            "title": "Master Duty HD4 SAE 15W40 API CI-4/SL",
+            "productName": " Americano coffee ",
+            "desc": " With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water."
+        },
+        {
+            "id": 5,
+            "head": "Spresso",
+            "data": "Doppio",
+            "img": "https://i.ibb.co/rs7B1Qp/cofee5.jpg",
+            "title": "Master Duty HD2 SAE 50 CF-4/SG",
+            "productName": "  Doppio coffee ",
+            "desc": "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
+            "package": "5L,20L"
+        },
+        {
+            "id": 6,
+            "head": "Spresso",
+            "data": "Mocha",
+            "img": "https://i.ibb.co/NtJZJ88/coffee6.jpg",
+            "title": "ULTRA TECH ISO 68",
+            "productName": " Hydraulic oils",
+            "desc": " For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam."
+        }
+    ]
+}
